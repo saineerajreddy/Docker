@@ -8,4 +8,6 @@
 ->To run linux based images in windows and mac use Docker Desktop<br>
 ->A container is an instance of running image<br>
 ->Docker Registry ---> A storage and distribution sysytem for Docker images<br>
+->Port Binding : Bind the containers port yo the hosts port to make service available for outside world<br>
+->
 
